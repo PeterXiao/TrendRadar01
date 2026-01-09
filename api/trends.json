@@ -1,37 +1,164 @@
 {
-  "generated_at": "2026-01-08T16:31:54.661649+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-01-09T16:31:42.602887+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 13,
       "titles": [
         {
-          "title": "特朗普签署备忘录宣布美国退出 66 个国际组织，如何解读？特朗普为何近期大动作频频？",
-          "url": "https://www.zhihu.com/question/1992497349604438807",
+          "title": "这招儿恐被用在台海？特朗普听完，耸耸肩说…",
+          "url": "https://news.ifeng.com/c/8pls4YBnj3I",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
+          "url": "https://news.ifeng.com/c/8pm6HIDB94W",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "中方回应特朗普涉台言论：解决台湾问题是中国人自己的事",
+          "url": "https://www.cls.cn/detail/2252966",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普接受专访放话：我不需要国际法，我的唯一限制是我的道德准则",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32348829",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时31分"
+        },
+        {
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
           "source": "知乎",
           "ranks": [
-            1
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
         {
-          "title": "美媒：特朗普吹嘘委内瑞拉行动 回避后续规划问题",
-          "url": "https://flash.jin10.com/detail/20260108155641568800",
-          "source": "金十数据",
+          "title": "特朗普政府激起公愤 法德等领导人严词批评",
+          "url": "https://wallstreetcn.com/livenews/3033883",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            3
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "彻底不减支了？特朗普称2027年美军事预算应是1.5万亿美元，较今年暴增50%",
-          "url": "https://wallstreetcn.com/articles/3762789",
+          "title": "就在周五！美最高法院关税意见日敲定，美股、美债市场迎来“大考”",
+          "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
           "ranks": [
             4
@@ -41,132 +168,39 @@
           "time_info": "16时31分"
         },
         {
-          "title": "特朗普退出联合国机构一览表",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%80%E5%87%BA%E8%81%94%E5%90%88%E5%9B%BD%E6%9C%BA%E6%9E%84%E4%B8%80%E8%A7%88%E8%A1%A8",
-          "source": "bilibili 热搜",
+          "title": "黄金成全球最大储备资产，30年来首次超越美债！",
+          "url": "https://wallstreetcn.com/articles/3762855",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "特朗普威胁吞并格陵兰岛，六种棋局推演",
-          "url": "https://news.ifeng.com/c/8pk5HcG7PZo",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普骂它像沥青，却为它动武，委内瑞拉的「垃圾」石油到底怎么样？",
-          "url": "https://www.zhihu.com/question/1991444028256907311",
+          "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
+          "url": "https://www.zhihu.com/question/1992897642179552544",
           "source": "知乎",
           "ranks": [
-            11
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时31分"
         },
         {
-          "title": "特朗普指示美国退出“不再符合美国利益”的66个国际组织",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32340360",
-          "source": "澎湃新闻",
+          "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348885&amp;topic_name=%E5%9B%BD%E6%9C%8D%E7%8E%A9%E5%AE%B6%E7%88%86%E6%96%99%3A%E4%BC%8A%E6%9C%97%E6%9A%B4%E4%B9%B1%E5%A3%AB%E5%85%B5%E6%8F%AD%E7%AB%BF",
+          "source": "贴吧",
           "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美中期选举结果会如何影响特朗普",
-          "url": "https://www.toutiao.com/trending/7592759487010750506/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美媒：特朗普称美国对委内瑞拉的监管可能持续数年",
-          "url": "https://flash.jin10.com/detail/20260108154136347800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普急退66个国际组织为哪般",
-          "url": "https://www.toutiao.com/trending/7592878921817787954/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普提出将美军费提至1.5万亿美元",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E5%87%BA%E5%B0%86%E7%BE%8E%E5%86%9B%E8%B4%B9%E6%8F%90%E8%87%B31.5%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "哥伦比亚总统与特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E6%80%BB%E7%BB%9F%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美国总统特朗普：我已经通过获取受制裁的石油为美国开始赚钱。",
-          "url": "https://flash.jin10.com/detail/20260108153300697800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "美国总统特朗普：（谈委内瑞拉）我们将向委内瑞拉提供资金，而他们正极度需要这些资金。",
-          "url": "https://flash.jin10.com/detail/20260108153240698800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        },
-        {
-          "title": "特朗普表示，美国对委内瑞拉的监管可能会持续多年，美国将在未来数年内开采委内瑞拉石油。（纽约时报）",
-          "url": "https://wallstreetcn.com/livenews/3033071",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -179,11 +213,11 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "相亲搞旅游测试,男方直接跑路",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348834&amp;topic_name=%E7%9B%B8%E4%BA%B2%E6%90%9E%E6%97%85%E6%B8%B8%E6%B5%8B%E8%AF%95%2C%E7%94%B7%E6%96%B9%E7%9B%B4%E6%8E%A5%E8%B7%91%E8%B7%AF",
+          "title": "开年首炸!性转版入赘测试屠榜",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28348908&amp;topic_name=%E5%BC%80%E5%B9%B4%E9%A6%96%E7%82%B8%21%E6%80%A7%E8%BD%AC%E7%89%88%E5%85%A5%E8%B5%98%E6%B5%8B%E8%AF%95%E5%B1%A0%E6%A6%9C",
           "source": "贴吧",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -192,46 +226,12 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "比豆包手机还狠！Gemini电视登场CES，谷歌打响客厅革命第一枪",
-          "url": "https://wallstreetcn.com/articles/3762755",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价暴涨年轻人改买“道具黄金”",
-          "url": "https://www.toutiao.com/trending/7592498286850998299/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时31分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美经济数据喜忧参半，美股涨势暂歇，美债受捧，美元两连涨，金银铜跌离高位",
-          "url": "https://wallstreetcn.com/articles/3762734",
+          "title": "临近周五，美股轮动加剧，芯片股两连阴、小盘股指新高，地缘风险撑原油强劲反弹",
+          "url": "https://wallstreetcn.com/articles/3762848",
           "source": "华尔街见闻",
           "ranks": [
             1
