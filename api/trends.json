@@ -1,61 +1,106 @@
 {
-  "generated_at": "2026-02-09T16:54:11.418048+08:00",
+  "generated_at": "2026-02-10T16:56:51.329343+08:00",
   "total_titles_processed": 301,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国方面称，道达尔能源将为谷歌位于得州的数据中心提供1吉瓦太阳能发电容量，为期15年。",
-          "url": "https://flash.jin10.com/detail/20260209161349055800",
-          "source": "金十数据",
+          "title": "特朗普再放豪言：我选的美联储掌门沃什 有能力推动美国经济增长15%！",
+          "url": "https://www.cls.cn/detail/2285295",
+          "source": "财联社热门",
           "ranks": [
-            9
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "16时56分"
         },
         {
-          "title": "道达尔能源将在德州为谷歌供应1吉瓦太阳能电力",
-          "url": "https://wallstreetcn.com/livenews/3052196",
-          "source": "华尔街见闻-快讯",
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://www.toutiao.com/trending/7605068464549744178/",
+          "source": "今日头条",
           "ranks": [
-            9
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "16时56分"
+        },
+        {
+          "title": "谷爱凌回应特朗普大骂冬奥运动员",
+          "url": "https://s.weibo.com/weibo?q=%23%E8%B0%B7%E7%88%B1%E5%87%8C%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%A7%E9%AA%82%E5%86%AC%E5%A5%A5%E8%BF%90%E5%8A%A8%E5%91%98%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
+      "keyword_group": "伊朗",
       "match_count": 2,
       "titles": [
         {
-          "title": "以“和平”为名：特朗普调停冲突，意在关键矿产？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32551636",
-          "source": "澎湃新闻",
+          "title": "伊朗方面警告称，内塔尼亚胡访美将对谈判造成毁灭性影响。",
+          "url": "https://flash.jin10.com/detail/20260210162531438800",
+          "source": "金十数据",
           "ranks": [
-            14
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 1,
+          "time_info": "16时56分"
         },
         {
-          "title": "特朗普称“期待高市实现以实力保障和平的政策”，外交部回应",
-          "url": "https://wallstreetcn.com/livenews/3052163",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外交部：美国官员有责任不受以色列方面压力的影响，不能让他人代表美国做出外交政策方面的决策。",
+          "url": "https://flash.jin10.com/detail/20260210155550497800",
+          "source": "金十数据",
           "ranks": [
-            27
+            16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时54分"
+          "time_info": "16时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌“向天再借一百年”！全球科技界将迎来本世纪首只“百年债券”",
+          "url": "https://www.cls.cn/detail/2285329",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价上蹿下跳，重回5000美元后，反弹动能是否仍然充沛？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32572245",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     },
@@ -64,15 +109,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "本周“惨况”继续？高盛：美股抛售潮尚未结束，金银和比特币亦受连累！",
-          "url": "https://www.cls.cn/detail/2284121",
-          "source": "财联社热门",
+          "title": "科技股继续提振美股，标普逼近历史高位，美元跌破97关口，黄金重回5000美元，期银盘中涨近9%",
+          "url": "https://wallstreetcn.com/articles/3765262",
+          "source": "华尔街见闻",
           "ranks": [
-            12
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时53分 ~ 16时54分]"
+          "appearance_count": 1,
+          "time_info": "16时56分"
         }
       ]
     }
