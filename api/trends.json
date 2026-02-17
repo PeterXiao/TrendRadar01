@@ -1,83 +1,100 @@
 {
-  "generated_at": "2026-02-16T16:49:35.643794+08:00",
+  "generated_at": "2026-02-17T16:46:56.726225+08:00",
   "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 3,
       "titles": [
         {
-          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
-          "url": "https://wallstreetcn.com/articles/3765772",
+          "title": "阿里发布千问3.5，性能媲美Gemini 3， Token价格仅为其1/18",
+          "url": "https://wallstreetcn.com/articles/3765786",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         },
         {
-          "title": "OpenAI联合创始人Greg Brockman：Codex的势头强劲，许多人都感受到了5.3版本的巨大飞跃。如果您的组织还没有尝试过Codex，那么值得重新考虑一下。",
-          "url": "https://flash.jin10.com/detail/20260216153508680800",
-          "source": "金十数据",
+          "title": "阿里除夕开源千问3.5：性能媲美Gemini 3 Pro， 实现原生多模态模型代际跃迁",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32621821",
+          "source": "澎湃新闻",
           "ranks": [
-            24
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         },
         {
-          "title": "OpenAI创始人奥尔特曼：Codex的周活跃用户数量自年初以来增长了两倍多。",
-          "url": "https://flash.jin10.com/detail/20260216153347079800",
+          "title": "市场消息：联合利华与谷歌云达成五年合作，将使用谷歌云的先进人工智能、数据和平台。",
+          "url": "https://flash.jin10.com/detail/20260217160309287800",
           "source": "金十数据",
           "ranks": [
-            25
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 3,
+      "keyword_group": "特朗普",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
-          "source": "澎湃新闻",
+          "title": "特朗普：将间接参与美伊谈判",
+          "url": "https://news.ifeng.com/c/8qoM4xu3Rme",
+          "source": "凤凰网",
           "ranks": [
-            6
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         },
         {
-          "title": "伊朗大秀肌肉回应美国施压",
-          "url": "https://www.toutiao.com/trending/7607336004873096742/",
-          "source": "今日头条",
+          "title": "特朗普反应低调 日本怕中美搞大动作",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%8D%E5%BA%94%E4%BD%8E%E8%B0%83+%E6%97%A5%E6%9C%AC%E6%80%95%E4%B8%AD%E7%BE%8E%E6%90%9E%E5%A4%A7%E5%8A%A8%E4%BD%9C",
+          "source": "百度热搜",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
-        },
+          "time_info": "16时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
         {
-          "title": "伊朗外长：欧洲大国在核谈判中“无关紧要”",
-          "url": "https://flash.jin10.com/detail/20260216155000444800",
-          "source": "金十数据",
+          "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
+          "url": "https://wallstreetcn.com/articles/3765802",
+          "source": "华尔街见闻",
           "ranks": [
-            20
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
+        },
+        {
+          "title": "谈判前夕，伊朗革命卫队海军举行大规模海上演习",
+          "url": "https://news.ifeng.com/c/8qnQ5gsQzx8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     },
@@ -86,32 +103,32 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "国际雪联：未削减谷爱凌训练次数，她已获得额外测试训练邀请",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32617140",
-          "source": "澎湃新闻",
+          "title": "软银与Ampere Computing联合测试使用CPU运行小型人工智能模型",
+          "url": "https://wallstreetcn.com/livenews/3055891",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
+          "title": "OpenAI成功“抢人”！从OpenClaw挖来创始人掌舵AI代理",
+          "url": "https://www.cls.cn/detail/2290903",
           "source": "财联社热门",
           "ranks": [
-            9
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         }
       ]
     },
@@ -120,32 +137,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "美股财报电话会现状：“AI风险”讨论翻倍，公司必须“自证清白”，投资者“先卖再问”",
-          "url": "https://wallstreetcn.com/articles/3765769",
+          "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
+          "url": "https://wallstreetcn.com/articles/3765796",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美伊第二轮谈判前，内塔尼亚胡提条件、特朗普放狠话",
-          "url": "https://news.ifeng.com/c/8qn5bb5LeJE",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时49分"
+          "time_info": "16时46分"
         }
       ]
     }
