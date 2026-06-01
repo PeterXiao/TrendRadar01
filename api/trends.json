@@ -1,233 +1,254 @@
 {
-  "generated_at": "2026-05-31T18:16:06.035245+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-06-01T21:36:36.059692+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
         {
-          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
-          "url": "https://wallstreetcn.com/livenews/3111918",
-          "source": "华尔街见闻-快讯",
+          "title": "报道称伊朗停止与美国沟通后，美国国债跌幅扩大。",
+          "url": "https://flash.jin10.com/detail/20260601212032584800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时36分"
         },
         {
-          "title": "伊朗批准20种农产品及加工产品出口",
-          "url": "https://flash.jin10.com/detail/20260531180038627800",
+          "title": "伊朗决定暂停与美谈判并彻底封锁海峡",
+          "url": "https://flash.jin10.com/detail/20260601211956833800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时36分"
         },
         {
-          "title": "伊朗称过去24小时内有28艘船只经协调通过霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/livenews/3111914",
-          "source": "华尔街见闻-快讯",
+          "title": "据伊朗塔斯尼姆通讯社：在满足伊朗对停止以色列在黎巴嫩和加沙地区行动的要求之前，不会进行谈判。",
+          "url": "https://flash.jin10.com/detail/20260601211831839800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗及抵抗阵线已决定全面封锁霍尔木兹海峡。作为回应措施，其他战线也可能被启动，包括曼德海峡。",
+          "url": "https://flash.jin10.com/detail/20260601211747891800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时36分"
         },
         {
-          "title": "伊朗议会议长卡利巴夫：敌人企图通过施加经济压力和发动媒体战来煽动分裂，破坏国家凝聚力。",
-          "url": "https://flash.jin10.com/detail/20260531175240266800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员要求以色列立即停止在加沙和黎巴嫩的军事行动。伊朗还要求以色列在谈判恢复前，全面撤出其在黎巴嫩占领的地区。",
+          "url": "https://flash.jin10.com/detail/20260601211725704800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时36分"
         },
         {
-          "title": "大片火球从天而降！伊朗袭击科威特美军基地",
-          "url": "https://v.ifeng.com/c/8tZLWOELypO",
+          "title": "据塔斯尼姆通讯社：鉴于以色列在黎巴嫩持续采取军事行动，同时黎巴嫩问题原本就是停火协议的前提条件之一，而目前包括黎巴嫩在内的所有战线上的停火均已遭到破坏，伊朗谈判代表团将停止“通过中间人进行对话和文本交换”。",
+          "url": "https://flash.jin10.com/detail/20260601211627208800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "伊朗总统：要么强硬前行，要么牺牲",
+          "url": "https://news.ifeng.com/c/8taeRM6ZuHm",
           "source": "凤凰网",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "伊朗外交部：美伊谅解备忘录缺不得黎巴嫩停火",
+          "url": "https://news.ifeng.com/c/8tbSvd3YFSk",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗因抗议以色列的罪行而停止与美国的信息交流。",
+          "url": "https://flash.jin10.com/detail/20260601211401645800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队发布摧毁美军无人机的视频",
+          "url": "https://wallstreetcn.com/livenews/3112456",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "21时36分"
         },
         {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，外交的工作是将军事领域获得的胜利转化为政治和法律成果。",
-          "url": "https://flash.jin10.com/detail/20260531174422454800",
+          "title": "据报道，伊朗谈判团队将停止“通过中介进行对话和文本交流”。",
+          "url": "https://flash.jin10.com/detail/20260601211225785800",
           "source": "金十数据",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队海军表示，我们的部队坚定而有力地继续对霍尔木兹海峡进行监控和智能管控。",
-          "url": "https://flash.jin10.com/detail/20260531173432347800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "伊朗议会议长：在确认伊朗人民权利得到保障前 不会批准任何协议",
-          "url": "https://flash.jin10.com/detail/20260531172555462800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗伊斯兰革命卫队宣布，过去24小时内有28艘包括油轮、集装箱船及其他商船在获得许可后，经过伊朗海军的协调和安全保障，从霍尔木兹海峡通过。",
-          "url": "https://flash.jin10.com/detail/20260531163534017800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3111863",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美伊谈判进入关键拉锯：特朗普临时改协议，签署时间再生变数",
-          "url": "https://wallstreetcn.com/articles/3773514",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
-        },
-        {
-          "title": "多名艺人辞演 特朗普要当国庆开场秀主角",
-          "url": "https://flash.jin10.com/detail/20260531165738443800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时16分"
+          "time_info": "21时36分"
         },
         {
-          "title": "特朗普：美伊若无法达成协议 “战争部”将介入",
-          "url": "https://wallstreetcn.com/livenews/3111873",
+          "title": "伊朗总统：将确保日本船只通过霍尔木兹海峡更加顺畅。",
+          "url": "https://wallstreetcn.com/livenews/3112449",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美官员透露：特朗普提出更强硬条款 试图施压伊朗加快谈判进程",
-          "url": "https://wallstreetcn.com/livenews/3111866",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "测试",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "3C认证实施规则迎来新调整 移动电源新增多项安全测试",
-          "url": "https://wallstreetcn.com/livenews/3111881",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时16分"
-        },
-        {
-          "title": "美公司被曝拟在乌战场测试升级版人形机器人",
-          "url": "https://flash.jin10.com/detail/20260531171541034800",
-          "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "21时36分"
+        },
         {
-          "title": "如何看待 DeepSeek 在 2026.5.29 晚限制修改输入次数？",
-          "url": "https://www.zhihu.com/question/2043802300246915002",
-          "source": "知乎",
+          "title": "美军称拦截两枚伊朗向驻科威特美军基地发射的导弹",
+          "url": "https://wallstreetcn.com/livenews/3112445",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们将采取一切措施，恢复霍尔木兹海峡的海上交通，维护水道的稳定与安全。",
+          "url": "https://flash.jin10.com/detail/20260601210126603800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美国中央司令部：美军昨晚拦截了两枚伊朗的弹道导弹。 导弹的目标是驻科威特美军。 导弹被击落，无美军人员伤亡。",
+          "url": "https://wallstreetcn.com/livenews/3112433",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 5,
       "titles": [
         {
-          "title": "美股收盘：三大股指续创新高 戴尔领衔科技股狂欢",
-          "url": "https://www.cls.cn/detail/2385964",
+          "title": "据报道，伊朗将暂停与美国沟通，以抗议以色列相关行动。受此消息影响，美股股指期货短线跳水，纳指期货日内转跌；国际油价短线拉升；现货黄金短线下挫30美元；德国国债和英国国债跌幅扩大。",
+          "url": "https://wallstreetcn.com/livenews/3112469",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "美股三大股指期货全线转跌，欧洲斯托克600指数迅速下跌0.8%。",
+          "url": "https://flash.jin10.com/detail/20260601211433875800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3112458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "英伟达发布PC芯片 AI狂欢席卷全球市场 美股期指上涨 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2387523",
           "source": "财联社热门",
           "ranks": [
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时15分 ~ 18时16分]"
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2026-06-01）",
+          "url": "https://flash.jin10.com/detail/20260601210447282800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普提出更强硬条款，伊朗：已准备好谈判破裂",
+          "url": "https://news.ifeng.com/c/8taubWZltKg",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "21时36分"
         }
       ]
     }
