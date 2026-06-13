@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-12T19:43:37.617212+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-13T18:28:52.212292+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
@@ -8,242 +8,231 @@
       "match_count": 11,
       "titles": [
         {
-          "title": "伊朗发布“头骨世界杯”海报",
-          "url": "https://www.toutiao.com/trending/7650111233802731539/",
-          "source": "今日头条",
+          "title": "多名伊朗国足代表团成员签证被拒，美国回应",
+          "url": "https://news.ifeng.com/c/8tvGP2lQey4",
+          "source": "凤凰网",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://news.ifeng.com/c/8ttmPg8dMjP",
-          "source": "凤凰网",
+          "title": "世界杯伊朗队训练场旁发现腐尸",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%96%E7%95%8C%E6%9D%AF%E4%BC%8A%E6%9C%97%E9%98%9F%E8%AE%AD%E7%BB%83%E5%9C%BA%E6%97%81%E5%8F%91%E7%8E%B0%E8%85%90%E5%B0%B8",
+          "source": "百度热搜",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "伊朗战争推高通胀压力，欧洲央行近三年来首次加息！",
-          "url": "https://wallstreetcn.com/articles/3774438",
-          "source": "华尔街见闻",
+          "title": "巴基斯坦外长：与瑞士外长一致希望美国与伊朗的努力能促进地区和平与稳定。",
+          "url": "https://flash.jin10.com/detail/20260613173510600800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "黎巴嫩外长否认美伊协议中包含了黎巴嫩停火条款，并强调需要将黎巴嫩事务与伊朗事务分开。",
+          "url": "https://flash.jin10.com/detail/20260613173416307800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：伊朗正在致力于摧毁以色列，而我毕生致力于阻止他们这样做。只要我担任以色列总理，这一切就不会发生。",
-          "url": "https://flash.jin10.com/detail/20260612193004593800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "油价下挫5%！伊朗公布伊美谅解备忘录新细节，霍尔木兹海峡或30天内重开",
-          "url": "https://wallstreetcn.com/articles/3774522",
+          "title": "“美伊协议即将达成”叙事回归，但伊朗拒绝放弃霍尔木兹海峡“筹码”",
+          "url": "https://wallstreetcn.com/articles/3774540",
           "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：如果不是这场斗争，伊朗早就拥有了可以用来摧毁以色列的原子弹。",
-          "url": "https://flash.jin10.com/detail/20260612192951118800",
+          "title": "黎巴嫩外长：即使伊朗政权没有垮台，黎巴嫩也有能力终结真主党的武器问题。",
+          "url": "https://flash.jin10.com/detail/20260613173245745800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "以色列总理内塔尼亚胡：三十多年来，我一直站在国际社会反对伊朗核计划斗争的最前沿。",
-          "url": "https://flash.jin10.com/detail/20260612192945775800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊媒称伊朗未就放弃霍尔木兹海峡管理权作出承诺",
-          "url": "https://wallstreetcn.com/livenews/3118852",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗就伊美协议表态显现审慎态度",
-          "url": "https://wallstreetcn.com/livenews/3118840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "伊朗方面公布伊美谅解备忘录新细节",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E5%85%AC%E5%B8%83%E4%BC%8A%E7%BE%8E%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E6%96%B0%E7%BB%86%E8%8A%82",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "报道：伊朗在“务实”框架下寻求战争赔偿",
-          "url": "https://wallstreetcn.com/livenews/3118827",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "几小时内反转！特朗普称取消打击伊朗计划，协议基本定稿、伊朗各方批准，或周末在欧洲签署",
-          "url": "https://wallstreetcn.com/articles/3774457",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "国际油价飙升！特朗普：今晚将重创伊朗，“在不久的将来”将占领哈尔克岛",
-          "url": "https://wallstreetcn.com/articles/3774439",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "特朗普涉伊朗表态“大转弯”，以总理“猝不及防”",
-          "url": "https://news.ifeng.com/c/8ttnDWEmW7E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "内塔尼亚胡：特朗普没提前告诉我",
-          "url": "https://news.ifeng.com/c/8ttf3o3HpAs",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时43分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：只要我担任以色列总理——伊朗就不会拥有核武器。我和特朗普总统在这个问题上完全一致。",
-          "url": "https://flash.jin10.com/detail/20260612192936328800",
-          "source": "金十数据",
+          "title": "伊朗外长披露伊美谅解备忘录草案部分内容",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372202",
+          "source": "澎湃新闻",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "特朗普说了30多次“即将达成协议”，市场却一直相信他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33365641",
+          "title": "伊朗外长：伊朗仅接受在境内“稀释处理”浓缩铀库存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33372320",
           "source": "澎湃新闻",
           "ranks": [
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-06-12）",
-          "url": "https://flash.jin10.com/detail/20260612191210980800",
-          "source": "金十数据",
+          "title": "伊朗国足被美国卡脖子后近况曝光",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%9B%BD%E8%B6%B3%E8%A2%AB%E7%BE%8E%E5%9B%BD%E5%8D%A1%E8%84%96%E5%AD%90%E5%90%8E%E8%BF%91%E5%86%B5%E6%9B%9D%E5%85%89%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
           "ranks": [
-            24
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "黎巴嫩总理：我们要求黎巴嫩真主党拯救国家，将黎巴嫩的利益置于伊朗的利益之上。",
+          "url": "https://flash.jin10.com/detail/20260613170428114800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美军称伊朗发射多架单向攻击无人机",
+          "url": "https://wallstreetcn.com/livenews/3119115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "测试",
+      "match_count": 3,
       "titles": [
         {
-          "title": "我们真的需要又一个 DeepSeek V5 吗？",
-          "url": "https://www.zhihu.com/question/2031303606524186735",
-          "source": "知乎",
+          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
+          "url": "https://wallstreetcn.com/livenews/3119142",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "雷军：小米汽车高度重视测试工作 目前整个测试团队有800多人",
+          "url": "https://flash.jin10.com/detail/20260613174940854800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "鸭腿染色测试",
+          "url": "https://search.bilibili.com/all?keyword=%E9%B8%AD%E8%85%BF%E6%9F%93%E8%89%B2%E6%B5%8B%E8%AF%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普“TACO”主导市场，原油大跌，美股债大反弹，半导体指数大涨8%，黄金收复4200",
-          "url": "https://wallstreetcn.com/articles/3774389",
-          "source": "华尔街见闻",
+          "title": "美股收盘：SpaceX首秀升19%市值破2万亿 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2398916",
+          "source": "财联社热门",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时43分"
+          "time_info": "18时28分"
+        },
+        {
+          "title": "美伊协议曙光重燃，原油两连跌，美股指全线收涨、债汇承压，SpaceX首日大涨19%",
+          "url": "https://wallstreetcn.com/articles/3774481",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "SpaceX上市引发“虹吸效应” 美股太空概念集体跳水",
+          "url": "https://www.cls.cn/detail/2398893",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "特朗普：美军打死“阿拉瓜火车”组织首领",
+          "url": "https://news.ifeng.com/c/8tuxrPNiEYB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
+        },
+        {
+          "title": "特朗普否认伊媒披露的美伊协议草案：与双方书面协议毫无关系",
+          "url": "https://www.cls.cn/detail/2398839",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时28分"
         }
       ]
     }
